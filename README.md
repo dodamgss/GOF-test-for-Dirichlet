@@ -1,0 +1,1 @@
+# GOF-test-for-Dirichlet
