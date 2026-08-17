@@ -1,7 +1,7 @@
 ---
 title: "Power Analysis of Goodness-of-Fit Tests for Dirichlet Distributions"
-author: "Author Name"
-date: "`r Sys.Date()`"
+author: "Sucharitha Dodamgodage"
+date: "01/15/2026"
 output:
   pdf_document:
     toc: true
