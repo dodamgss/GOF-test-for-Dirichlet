@@ -1,7 +1,7 @@
 ---
 title: "Power Analysis of Goodness-of-Fit Tests for Dirichlet Distributions"
 author: "Sucharitha Dodamgodage"
-date: "08/02/2023"
+date: "08/02/2026"
 
 abstract: |
   This study presents a parallelized simulation benchmark evaluating the empirical power of Goodness-of-Fit (GoF) tests for Dirichlet distributions under mixture-type alternatives. We contrast two primary frameworks: Parametric Bootstrap Cross-Section (PBCS) using Sobol quasi-random anchors, and multivariate Empirical Cumulative Distribution Function (ECDF) tests (Kolmogorov-Smirnov, Anderson-Darling, Cramér-von Mises). Parameter estimation techniques including Maximum Likelihood Estimation (MLE), Method of Moments (MME/MME2), and Maximum A Posteriori (MAP) are incorporated to assess sensitivity under varying concentration parameters.
